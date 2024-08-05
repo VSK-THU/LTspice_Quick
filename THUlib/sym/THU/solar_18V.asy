@@ -1,0 +1,11 @@
+Version 4
+SymbolType BLOCK
+RECTANGLE Normal 48 48 -48 -64
+TEXT -33 -6 Left 1 18V/55W
+WINDOW 0 80 -32 Bottom 2
+PIN 0 -64 TOP 5
+PINATTR PinName A
+PINATTR SpiceOrder 1
+PIN 0 48 BOTTOM 5
+PINATTR PinName K
+PINATTR SpiceOrder 2
